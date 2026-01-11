@@ -1,1 +1,3 @@
-## End to End machine learning project
+## machine learning basic projects
+### In this repository I am going to maintain my machine learning streak by implimenting one different ml model daily with different dataset.
+### This reflects my consistency and hardwork for ml 
